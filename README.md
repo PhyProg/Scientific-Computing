@@ -4,4 +4,4 @@ This repository contains codes written in Python (using NumPy, SciPy, SymPy, Pan
 Currently it contains:
 - Linear systems of differential equations,
 - Statistical distributions
-- Symbolic fourier analysis
+- Symbolic Fourier analysis
